@@ -8,4 +8,13 @@
 You can use `*` in the place of the word you forgot
 
 # How to search a range in google?
-`hit  movies 2018...2019`
+`hit  movies 2018...2019` or `iphone $600...$1000`
+
+# How to search a url with the text as keyword?
+`inurl:merriam`
+
+# If you want to search a similar websites?
+`realted:www.organicvalley.coop`
+
+
+
