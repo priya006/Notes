@@ -1,0 +1,11 @@
+## How to Search for two things a time?
+`limousine | pancake`
+
+# Do you want to search within a website with a specific "Keyword"?
+`www.leetcode.com rotate digits`
+
+# If you forgot a particular word in a phrase still want to search
+You can use `*` in the place of the word you forgot
+
+# How to search a range in google?
+`hit  movies 2018...2019`
